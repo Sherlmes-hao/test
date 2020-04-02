@@ -5,8 +5,10 @@ cd XXX
 pwd
 git init
 ls -ah
-
 vi A.txt
 vi B.txt
 git add A.txt B.txt
 git commit -m "Steps of git"
+
+git status
+git diff
