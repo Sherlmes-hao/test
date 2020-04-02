@@ -12,3 +12,8 @@ git commit -m "Steps of git"
 
 git status
 git diff
+
+git log(git log --pretty=oneline)
+git reset --hard HEAD^(HEAD^,HEAD^^,HEAD~100)
+git reset --hard ID
+git reflog
