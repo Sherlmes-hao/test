@@ -18,3 +18,9 @@ git reset --hard HEAD^(HEAD^,HEAD^^,HEAD~100)
 git reset --hard ID
 git reflog
 The Stage and Master of Repository
+
+git diff HEAD -- file
+git checkout -- file
+git clean -f
+rm file
+git rm file
