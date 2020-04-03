@@ -24,3 +24,9 @@ git checkout -- file
 git clean -f
 rm file
 git rm file
+ssh-keygen -t rsa -C "YOUR EMAIL"
+id_rsa,id_rsa.pub
+git remote add origin https://....git.(git remote add origin git@github.com.../....git
+git push -u origin master
+git clone https://.....git
+
