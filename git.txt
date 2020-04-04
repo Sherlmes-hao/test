@@ -37,3 +37,5 @@ git checkout -b <name> or git switch -c <name>
 git merge <name>
 git branch -d <name>
 
+conflict
+
