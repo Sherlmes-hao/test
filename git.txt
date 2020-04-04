@@ -30,3 +30,10 @@ git remote add origin https://....git.(git remote add origin git@github.com.../.
 git push -u origin master
 git clone https://.....git
 
+git branch
+git branch <name>
+git checkout <name> or git switch <name>
+git checkout -b <name> or git switch -c <name>
+git merge <name>
+git branch -d <name>
+
