@@ -36,4 +36,7 @@ git checkout <name> or git switch <name>
 git checkout -b <name> or git switch -c <name>
 git merge <name>
 git branch -d <name>
+
+conflict
+
 solve conflict problem
