@@ -39,3 +39,4 @@ git branch -d <name>
 
 conflict
 
+solve conflict problem
