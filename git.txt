@@ -35,8 +35,17 @@ git branch <name>
 git checkout <name> or git switch <name>
 git checkout -b <name> or git switch -c <name>
 git merge <name>
-git branch -d <name>
+git branch -d <name>(git branch -D <name>
 
 conflict
-
 solve conflict problem
+git stash
+git stash list
+git stash apply(git stash drop)
+git stash pop
+git stash cherry-pick
+
+git checkout -b branch-name origin/branch-name
+git push origin branch-name
+git pull
+git branch --set-upstream branch-name origin/branch-name
